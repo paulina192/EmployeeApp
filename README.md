@@ -1,2 +1,2 @@
 # EmployeeApp
-Java Application connected to MySQL database.
+Java Application connected to employeedb MySQL database.
