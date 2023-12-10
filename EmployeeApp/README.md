@@ -1,5 +1,5 @@
 ## Java Application connected to MySQL databse. 
-The database consists of randomly generated list of employees names and their details, which include age, salary, department and role. The Application allows to add new employee, show employees in the database, update or correct employees' info or delete the employee.
+The database consists of randomly generated list of employees' names and their details, which include age, salary, department and role. The Application allows to add new employee, show employees in the database, update or correct employees' info or delete the employee.
 
 
 ## Getting Started
